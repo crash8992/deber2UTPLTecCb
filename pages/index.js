@@ -24,7 +24,6 @@ export default function Home() {
         <meta name="description" content="Página de inicio de sesión" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
-        <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap"/>
       </Head>
       <main className="contenedor2">
         <div className="contenedor2">
